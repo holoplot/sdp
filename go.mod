@@ -1,4 +1,4 @@
-module gortc.io/sdp
+module github.com/holoplot/sdp
 
 go 1.12
 
